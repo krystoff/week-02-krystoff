@@ -1,0 +1,8 @@
+spec/exercise_spec.rb
+  Runs 2 tests:
+	1)  tests for proper operation of the strip method
+	2)  checks for exact length of specific string
+
+To run the tests, download this repo:  week-02-krystoff
+and cd to the folder of the same name, then run 'guard'.
+
